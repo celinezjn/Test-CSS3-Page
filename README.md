@@ -1,5 +1,5 @@
 ## 测试文件
-[查看文件：index.html](http://www.baidu.com)
+[查看文件：index.html](https://zengjiena.github.io/Test-CSS3-Page/)
 ### 上传过程笔记
 ``` 注释
 1. 先在GitHub上创建项目New repository
